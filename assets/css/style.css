@@ -219,7 +219,7 @@ fieldset {
     background-color: transparent;
 }
 .navbar-brand { padding: 0px }
-.navbar-brand img { width: 150px;margin-left:10px;}
+.navbar-brand img { width: 110px;margin-left:10px;}
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
   border-color: #fff;
 }
@@ -278,7 +278,7 @@ fieldset {
 .welcome-area,
 .welcome-slider-area,
 .welcome-slider-area div {
-    height: 700px;
+    height: 500px;
 }
 
 .welcome-slider-area div.single-slide-item-tablecell,
